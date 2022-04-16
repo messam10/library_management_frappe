@@ -1,1 +1,7 @@
-# library_management_frappe
+## Library Management
+
+Library Management System
+
+#### License
+
+MIT
